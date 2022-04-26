@@ -1,3 +1,5 @@
+This is the sourcce code repository for the final projcet of the course Trends in Big Data Management.
+
 Installation and running steps:
 
 Step 1 - Create a python virtual environment
