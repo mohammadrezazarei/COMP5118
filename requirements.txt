@@ -1,0 +1,9 @@
+numpy
+requests 
+torch 
+transformers 
+scikit-learn
+nlpaug 
+gensim>=4.1.2
+sentencepiece 
+nltk>=3.4.5 
